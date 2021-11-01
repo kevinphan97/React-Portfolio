@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "name": "Camping Buddy",
+        "image": "",
+        "github": "https://github.com/lucawic/api-pro",
+        "live": "https://lucawic.github.io/api-pro/",
+        "technologies": ""
+    },
+
+    {
+        "id": 2,
+        "name": "CarMart",
+        "image": "",
+        "github": "https://github.com/jhlanger/Group-Project-2",
+        "live": "https://gp2carmart.herokuapp.com",
+        "technologies": ""
+    },
+
+    {
+        "id": 3,
+        "name": "Password Generator",
+        "image": "",
+        "github": "https://github.com/kevinphan97/Password-Generator",
+        "live": "https://kevinphan97.github.io/Password-Generator/",
+        "technologies": ""
+    },
+
+    {
+        "id": 4,
+        "name": "Workday Scheduler",
+        "image": "",
+        "github": "https://github.com/kevinphan97/Work-Day-Scheduler",
+        "live": "https://kevinphan97.github.io/Work-Day-Scheduler/",
+        "technologies": ""
+    },
+
+    {
+        "id": 5,
+        "name": "Tech Blog",
+        "image": "",
+        "github": "https://github.com/kevinphan97/My-First-TechBlog",
+        "live": "https://fathomless-cliffs-56912.herokuapp.com",
+        "technologies": ""
+    },
+
+    {
+        "id": 6,
+        "name": "Note Taker",
+        "image": "",
+        "github": "https://github.com/kevinphan97/Note-Taker-Express",
+        "live": "https://calm-forest-03598.herokuapp.com/",
+        "technologies": ""
+    }
+]
