@@ -17,7 +17,7 @@
   To install any dependencies, navigate to the root directory and enter 'npm i' into the integrated terminal
 
   ## Deployed
-  [Deployed](kevinphan97.github.io/React-Portfolio)
+  https://kevinphan97.github.io/React-Portfolio 
 
   ## Contribution
   No contribution needed.
