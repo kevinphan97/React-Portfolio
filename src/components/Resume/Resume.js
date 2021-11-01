@@ -11,6 +11,7 @@ function Resume () {
                         NoSQL, MongoDB, Mongoose, Firebase, React.js
                     </p>
                 </div>
+                <a href = 'https://github.com/kevinphan97/React-Portfolio/raw/main/assets/Kevin%20Phan%20Resume%20(bootcamp).docx' class = 'link'>Resume</a>
             </div>
         </section>
     )
