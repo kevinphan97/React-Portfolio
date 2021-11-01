@@ -2,54 +2,54 @@
     {
         "id": 1,
         "name": "Camping Buddy",
-        "image": "",
+        "image": "/images/Camping-Buddy.png",
         "github": "https://github.com/lucawic/api-pro",
         "live": "https://lucawic.github.io/api-pro/",
-        "technologies": ""
+        "technologies": "HTML, CSS, Javascript, API, JQuery"
     },
 
     {
         "id": 2,
         "name": "CarMart",
-        "image": "",
+        "image": "/images/Car-Mart.png",
         "github": "https://github.com/jhlanger/Group-Project-2",
         "live": "https://gp2carmart.herokuapp.com",
-        "technologies": ""
+        "technologies": "HTML, CSS, Javascript, Express.js, Node.js"
     },
 
     {
         "id": 3,
         "name": "Password Generator",
-        "image": "",
+        "image": "/images/Password Generator.png",
         "github": "https://github.com/kevinphan97/Password-Generator",
         "live": "https://kevinphan97.github.io/Password-Generator/",
-        "technologies": ""
+        "technologies": "HTML, CSS, Javascript"
     },
 
     {
         "id": 4,
         "name": "Workday Scheduler",
-        "image": "",
+        "image": "/images/Work-Day Scheduler.png",
         "github": "https://github.com/kevinphan97/Work-Day-Scheduler",
         "live": "https://kevinphan97.github.io/Work-Day-Scheduler/",
-        "technologies": ""
+        "technologies": "HTML, CSS, Javascript, Local Storage"
     },
 
     {
         "id": 5,
         "name": "Tech Blog",
-        "image": "",
+        "image": "images/Tech Blog.png",
         "github": "https://github.com/kevinphan97/My-First-TechBlog",
         "live": "https://fathomless-cliffs-56912.herokuapp.com",
-        "technologies": ""
+        "technologies": "HTML, CSS, Javascript, MySQL, Express.js"
     },
 
     {
         "id": 6,
         "name": "Note Taker",
-        "image": "",
+        "image": "/images/Note Taker.png",
         "github": "https://github.com/kevinphan97/Note-Taker-Express",
         "live": "https://calm-forest-03598.herokuapp.com/",
-        "technologies": ""
+        "technologies": "HTML, CSS, Javascript, Local Storage, Node.js, Express.js"
     }
 ]

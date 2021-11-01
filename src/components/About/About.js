@@ -6,6 +6,7 @@ function About() {
       <h2 main center>
         Kevin Phan
       </h2>
+      <img class = 'mb-5' id = 'personal-img' src = '/images/Me.jpg' alt = 'Kevin Phan' />
       <p>
         I graduated Arizona State University in 2019 with a B.S. in Health Sciences (Pre-Professional).
         I am currently undergoing a full-stack web developement bootcamp offered by the University of Arizona which is finishing in November of 2021.
