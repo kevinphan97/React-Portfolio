@@ -20,7 +20,7 @@
     {
         "id": 3,
         "name": "Password Generator",
-        "image": "/images/Password Generator.png",
+        "image": "/images/Password-Generator.png",
         "github": "https://github.com/kevinphan97/Password-Generator",
         "live": "https://kevinphan97.github.io/Password-Generator/",
         "technologies": "HTML, CSS, Javascript"
@@ -29,7 +29,7 @@
     {
         "id": 4,
         "name": "Workday Scheduler",
-        "image": "/images/Work-Day Scheduler.png",
+        "image": "/images/Work-Day-Scheduler.png",
         "github": "https://github.com/kevinphan97/Work-Day-Scheduler",
         "live": "https://kevinphan97.github.io/Work-Day-Scheduler/",
         "technologies": "HTML, CSS, Javascript, Local Storage"
@@ -38,7 +38,7 @@
     {
         "id": 5,
         "name": "Tech Blog",
-        "image": "images/Tech Blog.png",
+        "image": "images/Tech-Blog.png",
         "github": "https://github.com/kevinphan97/My-First-TechBlog",
         "live": "https://fathomless-cliffs-56912.herokuapp.com",
         "technologies": "HTML, CSS, Javascript, MySQL, Express.js"
@@ -47,7 +47,7 @@
     {
         "id": 6,
         "name": "Note Taker",
-        "image": "/images/Note Taker.png",
+        "image": "/images/Note-Taker.png",
         "github": "https://github.com/kevinphan97/Note-Taker-Express",
         "live": "https://calm-forest-03598.herokuapp.com/",
         "technologies": "HTML, CSS, Javascript, Local Storage, Node.js, Express.js"
