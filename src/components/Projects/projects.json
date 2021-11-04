@@ -14,7 +14,7 @@
         "image": "/images/Car-Mart.png",
         "github": "https://github.com/jhlanger/Group-Project-2",
         "live": "https://gp2carmart.herokuapp.com",
-        "technologies": "HTML, CSS, Javascript, Express.js, Node.js"
+        "technologies": "Javascript, Express.js, Node.js"
     },
 
     {
@@ -41,7 +41,7 @@
         "image": "images/Tech-Blog.png",
         "github": "https://github.com/kevinphan97/My-First-TechBlog",
         "live": "https://fathomless-cliffs-56912.herokuapp.com",
-        "technologies": "HTML, CSS, Javascript, MySQL, Express.js"
+        "technologies": "HTML, Javascript, MySQL, Express.js"
     },
 
     {
@@ -50,6 +50,6 @@
         "image": "/images/Note-Taker.png",
         "github": "https://github.com/kevinphan97/Note-Taker-Express",
         "live": "https://calm-forest-03598.herokuapp.com/",
-        "technologies": "HTML, CSS, Javascript, Local Storage, Node.js, Express.js"
+        "technologies": "Javascript, Node.js, Express.js"
     }
 ]
