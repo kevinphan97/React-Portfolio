@@ -47,7 +47,7 @@ function Contact() {
                 </div>
                 <div class = 'mt-6'>
                     <label htmlFor = 'message'>Message</label>
-                    <input class = 'form-control' name = 'message' defaultValue = {message} onBlue = {handleChange} rows = '5'/>
+                    <input class = 'form-control' name = 'message' defaultValue = {message} onBlue = {handleChange} rows = '8'/>
                 </div>
                 {errorMessage && (
                 <div>
