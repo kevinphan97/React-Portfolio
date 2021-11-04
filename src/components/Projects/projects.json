@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Camping Buddy",
-        "image": "/images/Camping-Buddy.png",
+        "image": "../../public/images/Camping-Buddy.png",
         "github": "https://github.com/lucawic/api-pro",
         "live": "https://lucawic.github.io/api-pro/",
         "technologies": "HTML, CSS, Javascript, API, JQuery"
