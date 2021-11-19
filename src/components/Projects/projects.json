@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "name": "Camping Buddy",
-        "image": "../../public/images/Camping-Buddy.png",
-        "github": "https://github.com/lucawic/api-pro",
-        "live": "https://lucawic.github.io/api-pro/",
+        "name": "Post 4 Sale",
+        "image": "../../public/images/Post-4-Sale",
+        "github": "https://github.com/lucawic/post4sale",
+        "live": "https://quirky-pasteur-071244.netlify.app",
         "technologies": "HTML, CSS, Javascript, API, JQuery"
     },
 
@@ -18,12 +18,12 @@
     },
 
     {
-        "id": 3,
-        "name": "Password Generator",
-        "image": "/images/Password-Generator.png",
-        "github": "https://github.com/kevinphan97/Password-Generator",
-        "live": "https://kevinphan97.github.io/Password-Generator/",
-        "technologies": "HTML, CSS, Javascript"
+        "id": 1,
+        "name": "Camping Buddy",
+        "image": "../../public/images/Camping-Buddy.png",
+        "github": "https://github.com/lucawic/api-pro",
+        "live": "https://lucawic.github.io/api-pro/",
+        "technologies": "HTML, CSS, Javascript, API, JQuery"
     },
 
     {
